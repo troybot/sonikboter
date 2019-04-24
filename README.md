@@ -10,7 +10,7 @@
 
 ⚜┇انسخ رابط كيثاب السورس  ↡
 
-`git clone https://github.com/troybot/maxsonik.git ;cd maxsonik;chmod +x ins;./ins`
+`git clone https://github.com/troybot/sonikboter.git ;cd sonikboter;chmod +x ins;./ins`
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
