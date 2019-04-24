@@ -10,7 +10,7 @@
 
 ⚜┇انسخ رابط كيثاب السورس  ↡
 
-`git clone https://github.com/MAXTELE/MAX.git ;cd MAX;chmod +x ins;./ins`
+`git clone https://github.com/troybot/maxsonik.git ;cd maxsonik;chmod +x ins;./ins`
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
@@ -34,11 +34,11 @@
 
 💭┇كود رن السورس 
 
-`./MAX/run`
+`./maxsonik/run`
 
 💭┇كود حذف السورس 
 
-`rm -fr ./MAX`
+`rm -fr ./maxsonik`
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
